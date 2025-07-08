@@ -104,7 +104,7 @@ O projeto utiliza o **Shadcn/ui** como base do design system, garantindo:
 
 Este projeto frontend depende de um **servidor backend** que também faz parte do ecossistema NLW Agents.
 
-📦 **Repositório do Servidor:** [nlw-agents-server](https://github.com/kelvincharlesdev/nlw-server.git)
+📦 **Repositório do Servidor:** [nlw-agents-server](https://github.com/kelvincharlesdev/nlw-agents-server.git)
 
 O servidor deve ser clonado, configurado e executado separadamente para o funcionamento completo da aplicação.
 
