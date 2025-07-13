@@ -9,7 +9,7 @@ export const useRoomQuestions = (roomId: string) => {
         `http://localhost:3333/rooms/${roomId}/questions`,
       );
 
-      const result: GetRoomQuestionsResponse[] = await response.json();
+      const result: GetRoomQuestionsResponse = await response.json();
       return result;
     },
   });
